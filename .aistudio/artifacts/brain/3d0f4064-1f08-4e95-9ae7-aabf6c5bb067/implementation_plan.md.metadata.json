@@ -1,0 +1,6 @@
+{
+  "summary": "แผนการพัฒนาระบบคำนวณระยะทางและวาดเส้นทางตามโครงข่ายถนนจริง (Real Road Routing) เพื่อให้ระยะทางและค่าส่งตรงกับ Google Maps 100% พร้อมวาดเส้นทางขับรถบนแผนที่ Leaflet",
+  "updatedAt": "2026-11-06T05:58:28.338032017Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

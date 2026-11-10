@@ -1,0 +1,6 @@
+{
+  "name": "สุโขทัยแสงอุปกรณ์ | เริ่มที่นี่ no worry เรื่องบ้าน",
+  "description": "เริ่มที่นี่ no worry เรื่องบ้าน - บริการช่างครบวงจร คลังสินค้าและอุปกรณ์ และถอดแบบประมาณการราคา สุโขทัย",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

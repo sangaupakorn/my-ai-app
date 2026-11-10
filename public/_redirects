@@ -1,0 +1,4 @@
+/api/resolve-maps-url    /.netlify/functions/resolve-maps-url   200
+/api/route               /.netlify/functions/route              200
+/api/*                   /.netlify/functions/:splat             200
+/*                       /index.html                            200
